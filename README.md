@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shaik-zeeshan
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning rust
+- 🌱 I’m currently learning golang
 - 💞️ I’m looking to collaborate on Next.js , Typescript , React.js
 - 📫 How to reach me shaikzeeshan999@gmail.com
 
